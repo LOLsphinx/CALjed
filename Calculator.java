@@ -2,6 +2,8 @@ import javax.swing.*;
 import java.awt.*;
 import java.awt.event.*;
 
+// thanks jed
+
 class Calculator {
     public static void main (String args[]){
     event obj = new event();
