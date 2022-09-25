@@ -1,5 +1,7 @@
 import java.util.Scanner;
 
+// I love you jed
+
 class jed {
 
     public static void main(String[] args) {
