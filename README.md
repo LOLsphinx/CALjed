@@ -17,4 +17,5 @@
 >- Open a **File** **(Ctrl+Shift+O)**.
 >* Start **debugging** it
 >- Compile it and Done.
-
+>
+>## [**A big Thanks to Jed for making this repo for Java calculator**](https://www.facebook.com/kalilinuxxxx/)
