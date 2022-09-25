@@ -13,7 +13,7 @@
 >- [Download](https://github.com/LOLsphinx/CALjed/archive/refs/heads/main.zip) the **.java file**
 >- **Extract it** and open **Visual Studio Code** ![image](https://user-images.githubusercontent.com/104243528/191548173-ba8d6740-ea5f-403c-a9df-93c86698c482.png)
 >- Now **download** some extensions needed for **Java**
->- Open a **File** **(Ctrl+Shift+O)**.
+>- Open a **File** **(Ctrl+O)**.
 >* Start **debugging** it
 >- Compile it and Done.
 >
